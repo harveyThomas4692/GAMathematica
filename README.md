@@ -32,11 +32,40 @@ Get["Genetic`"]
 In either case, this has correctly imported the package if the following 
 appears
 ![importImage](https://raw.githubusercontent.com/harveyThomas4692/GAMathematica/main/Import.png)
+
 ## Examples
+There is currently one example notebook that can be found in the examples folder.
+This example demonstrated how GA can be used to find factors of integers.
 
 ### Integer Factors
+This simple example uses a this GA package to factorise a specified
+integer. This example may also be useful to some in demonstrating 
+how one can connect custom functions to this package.
+
+### Monad Bundles (Code Not available)
+This code has been used to find realistic string vacua from Heterotic
+String theory via Monad Bundles on smooth Calabi-Yau manifolds. All information
+on this can be found on SPIRES: https://inspirehep.net/literature/1953720
 
 ## Use
+Documentation is built into the package. This can be accessed by running the
+following lines in Mathematica:
+```
+?Genetic
+```
+```
+?GeneticOptions
+```
+```
+?GeneticModules
+```
+Similarly, any function listed in this last command has their own documentation.
+This can be found by running 
+```
+?"FunctionName"
+```
+I also suggest looking at the examples, as these demonstrate how one can connect
+custom functions to this package.
 
 ## Citation
 If you use this code, please cite the following bib entry:
