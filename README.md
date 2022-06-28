@@ -31,7 +31,7 @@ Get["Genetic`"]
 
 In either case, this has correctly imported the package if the following 
 appears
-![importImage](Import.jpg)
+![importImage](\main/Import.jpg)
 ## Examples
 
 ### Integer Factors
