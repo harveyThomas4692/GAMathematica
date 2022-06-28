@@ -31,7 +31,7 @@ Get["Genetic`"]
 
 In either case, this has correctly imported the package if the following 
 appears
-![importImage](\main/Import.jpg)
+![importImage]([\main/Import.jpg](https://raw.githubusercontent.com/harveyThomas4692/GAMathematica/main/Import.png))
 ## Examples
 
 ### Integer Factors
