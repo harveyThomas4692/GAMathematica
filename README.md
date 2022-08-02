@@ -68,9 +68,15 @@ I also suggest looking at the examples, as these demonstrate how one can connect
 custom functions to this package.
 
 ## Citation
-If you use this code, please cite the following bib entry:
+If you use this code, please cite the following bib entries:
 
 ```
+@article{GApackage,
+  author = "Abel, Steven and Constantin, Andrei and Harvey, Thomas R. and Lukas, Andre",
+  title = "{Mathematica package for Genetic Algorithms}",
+  url="https://github.com/harveyThomas4692/GAMathematica"
+}
+
 @article{Abel:2021rrj,
     author = "Abel, Steven and Constantin, Andrei and Harvey, Thomas R. and Lukas, Andre",
     title = "{Evolving Heterotic Gauge Backgrounds: Genetic Algorithms versus Reinforcement Learning}",
