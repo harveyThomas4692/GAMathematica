@@ -47,6 +47,12 @@ This code has been used to find realistic string vacua from Heterotic
 String theory via Monad Bundles on smooth Calabi-Yau manifolds. All information
 on this can be found on SPIRES: https://inspirehep.net/literature/1953720
 
+### Building Potentials for Cosmic Inflation (Code Not available)
+The code has been used to construct models of cosmic inflation by tuning the 
+parameters of the potential to satisfy the constraints from observation. Several
+different types of inflation are considered. All information can be found on
+SPIRES: https://inspirehep.net/literature/2143723
+
 ## Use
 Documentation is built into the package. This can be accessed by running the
 following lines in Mathematica:
@@ -88,6 +94,17 @@ If you use this code, please cite the following bib entries:
     volume = "70",
     number = "5",
     pages = "2200034",
+    year = "2022"
+}
+
+@article{Abel:2022nje,
+    author = "Abel, Steven and Constantin, Andrei and Harvey, Thomas R. and Lukas, Andre",
+    title = "{Cosmic Inflation and Genetic Algorithms}",
+    eprint = "2208.13804",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    reportNumber = "IPPP/22/64",
+    month = "8",
     year = "2022"
 }
 ```
