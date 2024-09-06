@@ -80,7 +80,8 @@ If you use this code, please cite the following bib entries:
 @article{GApackage,
   author = "Abel, Steven and Constantin, Andrei and Harvey, Thomas R. and Lukas, Andre",
   title = "{Mathematica package for Genetic Algorithms}",
-  url="https://github.com/harveyThomas4692/GAMathematica"
+  url="https://github.com/harveyThomas4692/GAMathematica",
+  note="https://github.com/harveyThomas4692/GAMathematica"
 }
 
 @article{Abel:2021rrj,
